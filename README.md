@@ -6,6 +6,6 @@ https://fierce-mountain-19694.herokuapp.com
 
 Now connected to MongoDB.
 
-Lists can be created by going to https://fierce-mountain-19694.herokuapp.com/*insert list name here*
+Lists can be created by going to https://fierce-mountain-19694.herokuapp.com/ *insert list name here*
 
 Checking off items removes them from the database. 
