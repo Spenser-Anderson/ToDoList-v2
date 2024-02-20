@@ -1,4 +1,4 @@
-# ToDoList-v2
+# ToDoList-v2 - Offline
 Version 2 of the ToDoList
 https://fierce-mountain-19694.herokuapp.com 
 
@@ -9,3 +9,5 @@ Now connected to MongoDB.
 Lists can be created by going to https://fierce-mountain-19694.herokuapp.com/ *insert list name here*
 
 Checking off items removes them from the database. 
+
+Herooku isnt free anymore
