@@ -1,4 +1,4 @@
-# ToDoList-v2 - Offline
+# ToDoList-v2 - Offline*
 Version 2 of the ToDoList
 https://fierce-mountain-19694.herokuapp.com 
 
@@ -10,4 +10,4 @@ Lists can be created by going to https://fierce-mountain-19694.herokuapp.com/ *i
 
 Checking off items removes them from the database. 
 
-Herooku isnt free anymore
+*Herooku isnt free anymore
